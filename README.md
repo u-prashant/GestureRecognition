@@ -6,14 +6,18 @@ Imagine you are working as a data scientist at a home electronics company which 
 
 The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
 
-* Thumbs up:  Increase the volume
-![Thumbs Up](thumps_up.gif)
-* Thumbs down: Decrease the volume
-![Thumbs Down](thumbs_down.gif)
-* Left swipe: 'Jump' backwards 10 seconds
-![Left Swipe](left_swipe.gif)
-* Right swipe: 'Jump' forward 10 seconds
-![Right Swipe](right_swipe.gif)
-* Stop: Pause the movie
-![Stop](stop.gif)
+* Thumbs up:  Increase the volume <br>
+  ![Thumbs Up](thumbs_up.gif)
+
+* Thumbs down: Decrease the volume <br>
+  ![Thumbs Down](thumbs_down.gif)
+
+* Left swipe: 'Jump' backwards 10 seconds <br>
+  ![Left Swipe](left_swipe.gif)
+
+* Right swipe: 'Jump' forward 10 seconds <br>
+  ![Right Swipe](right_swipe.gif)
+
+* Stop: Pause the movie <br>
+  ![Stop](stop.gif)
 
